@@ -31,7 +31,8 @@ class V1::CustomersController < ApplicationController
   end
   
   def show
-    json_response(@customer)
+    render :show#, status: :created
+    # json_response(@customer)
   end
   
   private

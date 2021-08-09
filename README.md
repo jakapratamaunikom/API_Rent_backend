@@ -44,11 +44,4 @@ Please make sure to update tests as appropriate.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
 
